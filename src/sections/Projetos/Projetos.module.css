@@ -1,0 +1,8 @@
+.section {
+  padding: 4.5rem 0;
+}
+
+.list {
+  display: flex;
+  flex-direction: column;
+}
